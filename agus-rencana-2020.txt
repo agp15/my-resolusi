@@ -2,5 +2,7 @@ RENCANA AGUS 2020
 - Buat blog
 - Isi dengan semua ilmu yang didapat
  * Materi pemrograman
+ * Bikin youtube
+ * Bikin template sendiri
 - Tambahkan adsense
 - Kalau sudah tinggi pendapatannya resign dari Padinet
